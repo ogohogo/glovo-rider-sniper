@@ -1,3 +1,6 @@
+# Update - 15-10-2026
+Glovo is slowly releasing off-slot approach in more and more cities and countries. Because of that, this repo goes into archived state.
+
 # glovo-rider-sniper
 Script that automatically scans and reserves shifts and swaps in Glovo Rider app.
 
